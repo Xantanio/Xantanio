@@ -24,6 +24,6 @@ I'm a Computer Science student and full-stack developer passionate about softwar
 
 ---
 
-### 📊 Languages Frequency
+### 📊 Languages Usage
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Xantanio&layout=donut&theme=dracula)](https://github.com/Xantanio/github-readme-stats)
