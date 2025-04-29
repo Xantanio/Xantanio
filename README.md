@@ -26,4 +26,4 @@ I'm a Computer Science student and full-stack developer passionate about softwar
 
 ### 📊 Langs
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Xantanio&theme=dracula)](https://github.com/Xantanio/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Xantanio&layout=donut&theme=dracula)](https://github.com/Xantanio/github-readme-stats)
