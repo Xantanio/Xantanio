@@ -4,7 +4,13 @@
 
 I'm a Computer Science student and full-stack developer passionate about software development. All my coding projects stem from my academic studies and personal exploration. Currently, I'm focused on completing my degree while honing my skills to excel in the job market. Beyond that, I have a deep interest in algorithms—especially their design and optimization—and I specialize in graph theory research.
 
----
+#
+
+### 📊 Most-used Languages
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Xantanio&layout=donut&theme=dracula)](https://github.com/Xantanio/github-readme-stats)
+
+#
 
 ### 🧰 Languages and Tools
 
@@ -22,8 +28,3 @@ I'm a Computer Science student and full-stack developer passionate about softwar
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
----
-
-### 📊 Most-used Languages
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Xantanio&layout=donut&theme=dracula)](https://github.com/Xantanio/github-readme-stats)
