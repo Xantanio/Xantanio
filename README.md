@@ -8,7 +8,7 @@ I'm a Computer Science student and full-stack developer passionate about softwar
 
 ### 📊 Most-used Languages
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Xantanio&hide=jupyternotebook&layout=donut&theme=dracula)](https://github.com/Xantanio/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Xantanio&hide=jupyter%20notebook&layout=donut&theme=dracula)](https://github.com/Xantanio/github-readme-stats)
 
 #
 
